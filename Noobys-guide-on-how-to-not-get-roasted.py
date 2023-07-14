@@ -10,7 +10,7 @@ hide_st_style = """
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-st.title('A simple guide on how to not get roasted')
+st.title('A simple guide on how to not get roasted very hard by the entire class chat:')
 st.write('1. dont send this message in the class group chat:')
 image = Image.open('ha.png')
 
