@@ -18,6 +18,6 @@ st.image(image)
 
 st.title('thats it!')
 st.write('---')
-st.write("[anyways view the source code here! >](https://github.com/nooby124/nooby-s-guide-on-how-to-not-get-destroyed)")
+st.write("[anyways view the source code here!](https://github.com/nooby124/nooby-s-guide-on-how-to-not-get-destroyed)")
 st.write('---')
 st.write('this website is just a joke for anyone who is not from my class but seriously dont say that in any group chat. for the guys that are in my class: this is very serious please take these things very personally. (looking at u mr a.a).')
